@@ -1,6 +1,11 @@
+![Java](https://img.shields.io/badge/java-JavaSE_15-orange?logo=java)
+![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipseide)
+![GitHub](https://img.shields.io/github/license/sborovic/kdp_lab2)
+
 # Конкурентно и дистрибуирано програмирање (13С11КДП) - Лабораторијска вежба бр. 2
 
 Multiple Atomic Broadcast Problem и дистрибуирано програмирање
+![Screen recording of the application in action](https://github.com/sborovic/kdp_lab2/blob/master/kdp_lab2.gif)
 
 ## Поставка вежбе
 Потребно је решити проблем недељивог емитовања у дистрибуираном окружењу. Произвођачи и потрошачи представљају клијентске програме који користећи централни сервер комуницирају и приступају дистрибуираним објектима, текстуалним датотекама, на серверу. 
